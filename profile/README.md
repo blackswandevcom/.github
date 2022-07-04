@@ -1,8 +1,4 @@
-[<img src="https://user-images.githubusercontent.com/18598809/177135830-abb0f223-8a43-4d28-bf1d-a79dc6a106ac.svg" width="124">](https://amirhp.com/landing)
-
-# BlackSwan
-
-BlackSwan is a premium supplier of quality WordPress plugins, services and support.
+We are a premium supplier of quality WordPress plugins, services and support.
 
 If you enjoy our products, please consider donating or giving a five-star rating in w.org.
 
